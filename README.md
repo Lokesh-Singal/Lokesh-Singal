@@ -2,7 +2,7 @@
 
 <!-- [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel) -->
 [![Linkedin Badge](https://img.shields.io/badge/-Lokesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lokesh-kumar26/)](https://www.linkedin.com/in/lokesh-kumar26/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Lokesh-green)](https://www.Lokesh)
+[![Website Badge](https://img.shields.io/badge/WebSite-Lokesh-green)](https://lokesh-singal.github.io/Profile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Lokesh-yellow)](https://stackoverflow.com/users/36872512/aakash-)
 
 I'm
