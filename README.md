@@ -5,9 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Lokesh-green)](https://lokesh-singal.github.io/Profile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Lokesh-yellow)](https://stackoverflow.com/users/36872512/aakash-)
 
-I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, ExpressJs), design (working closely with designers), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB)
+I am a Front-end developer. I specialise in JavaScript and have professional experience working on Front-end development. Understanding, assessing and taking up ownership of the requirement and making sure it meets the expectations of all the stakeholders involved. Knowledgeable of all the development cycle stages and have a good command of coding languages. Good experience in teamwork and excellent problem-solving skills.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/lokesh-singal/count.svg)
@@ -36,15 +34,15 @@ Languages and Tools:
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" />
     </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <!-- <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    </a> -->
+    <!-- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" />
-    </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
+    </a> -->
+    <!-- <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50" />
-    </a>
+    </a> -->
     <!-- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /> 
     </a> -->
