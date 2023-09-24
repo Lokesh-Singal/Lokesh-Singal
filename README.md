@@ -5,7 +5,9 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Lokesh-green)](https://lokesh-singal.github.io/Profile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Lokesh-yellow)](https://stackoverflow.com/users/36872512/aakash-)
 
-I am a Front-end developer. I specialise in JavaScript and have professional experience working on Front-end development. Understanding, assessing and taking up ownership of the requirement and making sure it meets the expectations of all the stakeholders involved. Knowledgeable of all the development cycle stages and have a good command of coding languages. Good experience in teamwork and excellent problem-solving skills.
+I am a seasoned Front-end Developer with a specialization in JavaScript, backed by a substantial track record of professional experience in Front-end development. My proficiency lies in comprehending, evaluating, and assuming ownership of requirements, ensuring alignment with the expectations of all stakeholders involved. I possess comprehensive knowledge of all stages within the development cycle, coupled with a mastery of coding languages. Additionally, I boast extensive experience in collaborative teamwork and demonstrate exceptional proficiency in problem-solving.
+
+<!-- I am a Front-end developer. I specialise in JavaScript and have professional experience working on Front-end development. Understanding, assessing and taking up ownership of the requirement and making sure it meets the expectations of all the stakeholders involved. Knowledgeable of all the development cycle stages and have a good command of coding languages. Good experience in teamwork and excellent problem-solving skills. -->
 
 
 ![Visitor Count](https://profile-counter.glitch.me/lokesh-singal/count.svg)
