@@ -2,7 +2,7 @@
 
 <!-- [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel) -->
 [![Linkedin Badge](https://img.shields.io/badge/-Lokesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lokesh-kumar26/)](https://www.linkedin.com/in/lokesh-kumar26/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Lokesh-green)](https://lokesh-singal.github.io/Profile/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Lokesh-green)](https://lokesh-singal.github.io/portfolio/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Lokesh-yellow)](https://stackoverflow.com/users/36872512/aakash-)
 
 I am a seasoned Front-end Developer with a specialization in JavaScript, backed by a substantial track record of professional experience in Front-end development. My proficiency lies in comprehending, evaluating, and assuming ownership of requirements, ensuring alignment with the expectations of all stakeholders involved. I possess comprehensive knowledge of all stages within the development cycle, coupled with a mastery of coding languages. Additionally, I boast extensive experience in collaborative teamwork and demonstrate exceptional proficiency in problem-solving.
